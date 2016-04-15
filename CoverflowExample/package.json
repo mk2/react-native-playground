@@ -1,5 +1,5 @@
 {
-  "name": "RNSample",
+  "name": "RNCoverflowExample",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.23.1",
-    "react-timer-mixin": "^0.13.3"
+    "react-native": "^0.23.1"
   }
 }
