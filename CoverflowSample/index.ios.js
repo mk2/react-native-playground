@@ -11,7 +11,7 @@ import React, {
   View
 } from 'react-native';
 
-class RNCoverflowExample extends Component {
+class CoverflowSample extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -49,4 +49,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('RNCoverflowExample', () => RNCoverflowExample);
+AppRegistry.registerComponent('CoverflowSample', () => CoverflowSample);
